@@ -1,5 +1,5 @@
 DS_PATH="/path/to/dataset";
-FIXER_PATH="/absolute/path/to/fixes";
+FIXER_PATH="/absolute/path/to/fixer";
 
 fix_class()
 {
